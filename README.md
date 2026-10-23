@@ -1,2 +1,1 @@
-# RivalRP
-Сайт ривала (мой точна)
+# RivalRP_Rules
